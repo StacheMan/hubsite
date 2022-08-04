@@ -1,11 +1,9 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'General Contractor'
+position: 'Assistant Cabinetry Installer and Fabricator
+startDate: 'Mar 2011'
+endDate: 'May 2015'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My job consisted of getting the measurements/build specs for the cabinets, interfacing with the client daily for updates and progress, installing the cabinets in their home, and the build up/tear down of the job site every day.

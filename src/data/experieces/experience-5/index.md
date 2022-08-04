@@ -1,9 +1,11 @@
 ---
 category: 'experiences'
-company: 'The Great Gasby Inc'
-position: 'CEO & Founder'
-startDate: 'Jan 2018'
+company: 'Local 44'
+position: 'Property Person'
+startDate: 'Jan 2017'
 endDate: 'Present'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Responsible for a team of workers that I would contact and hire personally, assign and oversee their daily tasks (Order, time and location of pickups). In charge of creating daily/weekly timecards for each team member, on set interfacing directly with the Director, Director of Photography, Producers, Executive Producers and Network Executives.
+
+Most Notable productions: Shameless, Animal Kingdom, Rebel Moon, Master Chef, The Morning Show, Malibu Rescue
