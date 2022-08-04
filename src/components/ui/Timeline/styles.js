@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import tw from 'tailwind.macro';
 
 export const Timeline = styled.div`
-  ${tw`flex flex-col sm:flex-row w-full p-4 relative border-l border-indigo-200`};
+  ${tw`flex flex-col sm:flex-row w-full p-4 relative border-l border-green-700`};
 
   &:last-child {
     ${tw`pb-0`};
@@ -26,12 +26,12 @@ export const Subtitle = styled.div`
 `;
 
 export const Date = styled.div`
-  ${tw`text-xs border border-pink-500 rounded-full px-2`};
+  ${tw`text-xs border border-green-700 rounded-full px-2`};
   width: fit-content;
 `;
 
 export const Point = styled.span`
-  ${tw`w-3 h-3 border border-indigo-200 bg-indigo-100 rounded-full absolute`};
+  ${tw`w-3 h-3 border border-orange-600 bg-gray-800 rounded-full absolute`};
   left: -6px;
   top: 20px;
 `;

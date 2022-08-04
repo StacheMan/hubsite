@@ -9,15 +9,15 @@ export const MainNav = styled.nav`
 `;
 
 export const MainNavItem = motion.custom(styled(Link)`
-  ${tw`relative text-indigo-900 border-b border-transparent hover:text-indigo-900 ml-0 sm:ml-8 mt-3 sm:mt-0`};
+  ${tw`relative text-orange-600 border-b border-transparent hover:text-green-800 ml-0 sm:ml-8 mt-3 sm:mt-0`};
   width: max-content;
 
   &.active {
-    ${tw`border-pink-500`};
+    ${tw`border-green-500`};
   }
 
   &:before {
-    ${tw`absolute w-full bg-pink-500 h-px left-0 invisible`};
+    ${tw`absolute w-full bg-green-500 h-px left-0 invisible`};
     content: '';
     bottom: -1px;
     transform: scaleX(0);

@@ -5,6 +5,7 @@ import SEO from 'components/SEO';
 import Experience from 'components/Experience';
 import Education from 'components/Education';
 import Skills from 'components/Skills';
+import { colors } from 'assets/styles/variables';
 
 const ResumePage: React.FC = () => (
   <Layout>

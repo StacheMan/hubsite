@@ -12,7 +12,7 @@ const Logo = () => {
           title
         }
       }
-      placeholderImage: file(relativePath: { eq: "profile.jpg" }) {
+      placeholderImage: file(relativePath: { eq: "oldheadshot.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 80) {
             ...GatsbyImageSharpFluid

@@ -6,11 +6,11 @@ export const ProgressBar = styled.div`
 `;
 
 export const BarWrapper = styled.div`
-  ${tw`w-full h-2 bg-gray-300 rounded overflow-hidden mt-1`};
+  ${tw`w-full h-2 bg-gray-400 rounded overflow-hidden mt-1`};
 `;
 
 export const Bar = styled.div`
-  ${tw`h-2 bg-orange-400`};
+  ${tw`h-2 bg-green-700`};
   width: ${({ percentage }) => `${percentage}%`};
 `;
 
