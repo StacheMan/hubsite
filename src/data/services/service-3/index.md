@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
+title: 'Mod Creation'
 icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Create cosmetic mods for various games. Learning more with the intent of creating an indepth mod'
 ---

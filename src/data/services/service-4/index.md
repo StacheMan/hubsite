@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Digital Marketing'
+title: 'Leadership'
 icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Have been leading crews of people from 5 to 20 on multiple projects in the Film Industry for almost a decade.'
 ---
