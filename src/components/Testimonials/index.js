@@ -41,12 +41,12 @@ const Testimonials = () => {
     }
   `);
 
-  const sectionTitle = markdownRemark.frontmatter;
+  // const sectionTitle = markdownRemark.frontmatter;
   const testimonials = allMarkdownRemark.edges;
 
   return (
     <Container section>
-      <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
+      {/* <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center /> */}
       <Styled.Testimonials>
         <Carousel>
           {testimonials.map((item) => {
