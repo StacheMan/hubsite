@@ -1,7 +1,7 @@
 ---
 category: 'experiences'
 company: 'General Contractor'
-position: 'Assistant Cabinetry Installer and Fabricator
+position: 'Assistant Cabinetry Installer and Fabricator'
 startDate: 'Mar 2011'
 endDate: 'May 2015'
 ---
