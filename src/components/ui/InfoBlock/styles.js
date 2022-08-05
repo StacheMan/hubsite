@@ -4,6 +4,7 @@ import tw from 'tailwind.macro';
 export const InfoBlock = styled.div`
   ${tw`flex flex-col my-4 mx-3 p-4 bg-white rounded-lg border border-green-700`};
   ${({ center }) => center && tw`items-center`};
+  box-shadow: 20px 20px 20px -20px rgb(0 0 0 / 50%);
 `;
 
 export const Icon = styled.span`
