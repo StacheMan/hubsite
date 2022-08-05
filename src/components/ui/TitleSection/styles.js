@@ -8,11 +8,21 @@ export const TitleSection = styled.div`
 export const Title = styled.h2`
   ${tw`uppercase mb-4 text-lg font-bold w-full text-left`};
   ${({ center }) => center && tw`text-center`};
+
+  &.banner-title{
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-left: 16px;
+    border-radius: 20px;
+  }
 `;
 
 export const SubTitle = styled.h4`
   ${tw`text-xs text-green-700 w-full text-left`};
   ${({ center }) => center && tw`text-center`};
+
+  &.hero-sub-title {
+    padding-left: 16px;
+  }
 `;
 
 export const Separator = styled.h2`
@@ -28,4 +38,9 @@ export const Separator = styled.h2`
     content: '';
     ${tw`bg-orange-600 h-6 w-px absolute ml-1`};
   }
+
+  &.hero-separator {
+    margin-left: 16px;
+  }
+
 `;
