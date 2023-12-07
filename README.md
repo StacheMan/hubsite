@@ -1,6 +1,6 @@
 # Welcome to my Website!
 
-This is my personal Website that I created using [Gatsby](https://www.gatsbyjs.org/), [Markdown](https://www.markdownguide.org/), [Styled Components](https://styled-components.com/), [Talwind CSS](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/) & [React Font Awesome](https://github.com/FortAwesome/react-fontawesome).
+This is my personal Website that I created using [Javascript](https://devdocs.io/javascript/), [Typescript](https://www.typescriptlang.org/docs/), [Gatsby](https://www.gatsbyjs.org/), [Markdown](https://www.markdownguide.org/), [Styled Components](https://styled-components.com/), [Talwind CSS](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/) & [React Font Awesome](https://github.com/FortAwesome/react-fontawesome).
 
 ## Porfolio Piece
 
