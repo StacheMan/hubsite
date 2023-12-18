@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "tsc && node ./dist/index.tsx",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "ES6",
+        "jsx": "preserve"
+    }
+}
