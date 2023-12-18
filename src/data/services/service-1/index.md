@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'UI/UX Design'
 icon: 'laptop-code'
-description: 'Created two websites to date. Always looking to learn and create more to satisfy my thirst for knowledge'
+description: 'Created diagrams, wireframes and outlines for various websites.'
 ---

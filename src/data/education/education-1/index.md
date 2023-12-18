@@ -1,9 +1,9 @@
-<!-- ---
+---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'California State University Northridge'
+degree: 'Bachelor of Computer Science'
+startDate: 'Sep 2010'
+endDate: 'Jul 2012'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. -->
+Studied Computer Science at CSUN while working as a General Contractor

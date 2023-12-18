@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Gatsby'
-percentage: 42
+title: 'Python'
+percentage: 70
 ---

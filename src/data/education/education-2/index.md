@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'California State University Northridge'
-degree: 'Bachelor of Computer Science'
-startDate: 'Sep 2008'
-endDate: 'Jul 2012'
+university: 'Los Angeles Film School'
+degree: 'Associates of Computer Science and Game Design'
+startDate: 'Mar 2012'
+endDate: 'Sep 2013'
 ---
 
-Studied Computer Science at CSUN while working as a General Contractor
+Studied Game Design and Programing at the Los Angeles Film School. Graduated Valedictorian.

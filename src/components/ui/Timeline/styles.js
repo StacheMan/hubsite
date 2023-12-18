@@ -22,11 +22,11 @@ export const Title = styled.div`
 `;
 
 export const Subtitle = styled.div`
-  ${tw`text-xs`};
+  ${tw`text-green-700 text-xs`};
 `;
 
 export const Date = styled.div`
-  ${tw`text-xs border border-green-700 rounded-full px-2`};
+  ${tw`bg-orange-200 text-xs border border-green-700 rounded-full px-2`};
   width: fit-content;
 `;
 

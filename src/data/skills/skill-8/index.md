@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'DaVinci Resolve'
-percentage: 63
+title: 'Tailwind'
+percentage: 60
 ---
