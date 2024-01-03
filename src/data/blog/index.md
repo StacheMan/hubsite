@@ -1,5 +1,5 @@
 ---
 category: 'blog section'
-title: 'Blog'
-subtitle: 'All my posts'
+title: '365 day Coding Challenge'
+subtitle: 'My challenge progress log'
 ---

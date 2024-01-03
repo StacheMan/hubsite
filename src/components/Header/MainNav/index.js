@@ -11,10 +11,10 @@ const mainNavItems = [
     title: 'Resume',
     slug: '/resume/'
   },
-  // {
-  //   title: 'Portfolio',
-  //   slug: '/blog/'
-  // },
+  {
+    title: 'Blog',
+    slug: '/blog/'
+  },
   {
     title: 'Contact Me',
     slug: '/contact/'
