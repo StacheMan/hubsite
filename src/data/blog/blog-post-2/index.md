@@ -1,25 +1,21 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
-title: 'Blog Post 2'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2019-12-24'
-tags: ['JavaScript', 'React']
-published: false
+cover: './blog2.jpg'
+title: 'Coding Blog Day 2'
+description: 'Day 2 of becoming a better programmer.'
+date: '2024-01-03'
+tags: ['JavaScript', 'Coding']
+published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+_Sadly on the road to life there are many setbacks. When you fall down, you have to make sure to get back up. It doesn't matter how many times you get knocked down, you just have to dust yourself off and get back up._
 
-**Sed ut perspiciatis unde omnis**
+**If opportunity doesn't knock, build a door. - Milton Berle**
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Some days, it feels like I don't know anything about programming. The hardest part about starting something new like this, is fighting yourself. Imposter Syndrome is going to be a daily struggle and it is only increased by failures and a lack of understanding.
 
-![Aliquet vel mollis nec](./cover.jpg)
+![Aliquet vel mollis nec](./blog2.jpg)
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+The only way is to keep pushing forward. Keep trying, keep coding, keep failing and from the failures you'll learn. I've learnt more from my bugs than from my successes and I'll continue to do so, but it will an arduous path. Eventually I'll be on the other side of this and able to program but for now, I'm still unsure and learning.
 
 **Sliquam quaerat voluptatems**
-
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
