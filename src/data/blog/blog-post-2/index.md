@@ -17,5 +17,3 @@ Some days, it feels like I don't know anything about programming. The hardest pa
 ![Aliquet vel mollis nec](./blog2.jpg)
 
 The only way is to keep pushing forward. Keep trying, keep coding, keep failing and from the failures you'll learn. I've learnt more from my bugs than from my successes and I'll continue to do so, but it will an arduous path. Eventually I'll be on the other side of this and able to program but for now, I'm still unsure and learning.
-
-**Sliquam quaerat voluptatems**
